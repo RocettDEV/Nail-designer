@@ -83,6 +83,7 @@ body {
     letter-spacing: 2px;
     padding: 0 15px;
     max-width: 50%;
+    color: white;
 
 }
 
@@ -145,6 +146,8 @@ body {
     padding: 60px;
     font-family: "lucimara", 'Times New Roman', Times, serif;
     font-size: 35px;
+    color: white;
+    text-transform: capitalize;
 
 }
 
